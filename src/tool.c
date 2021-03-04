@@ -10,6 +10,8 @@
 static const char *STUDENT_SENTENCES[] = {
     "Super ! J’ai créé une branche.",
 
+    "Encore une autre phrase",
+
 
 
 
