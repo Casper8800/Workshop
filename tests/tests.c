@@ -9,7 +9,7 @@
 
 #include "tek.h"
 
-Test(VIVE_LES_CONFLITS, get_first_sentence)
+Test(ENCORE_UN_autre_CONFLIT, get_first_sentence)
 {
     cr_assert_str_not_empty(get_sentence(0));
 }
